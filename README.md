@@ -14,7 +14,7 @@
 ## 🧪 Teste o OrçaZap Agora!
 Quer ver a IA funcionando na prática? Clique no botão abaixo para iniciar uma conversa com o robô:
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Teste_Agora-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5585 9168-0029?text=Olá,%20vim%20do%20GitHub%20e%20quero%20testar%20o%20OrçaZap!)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Teste_Agora-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5585991680029?text=Oi!)
 
 ## 💎 Visão do Produto & Funcionalidades
 
